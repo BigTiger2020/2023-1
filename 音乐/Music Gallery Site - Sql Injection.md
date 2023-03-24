@@ -5,9 +5,9 @@
 * Version: 1.0  
 
 * Vulnerable file:view_music_details.php
-![image]()  
+![image](https://github.com/BigTiger2020/2023-1/blob/main/%E9%9F%B3%E4%B9%90/1.png)  
 
 
 * POC:  
 
-![image]()   
+![image](https://github.com/BigTiger2020/2023-1/blob/main/%E9%9F%B3%E4%B9%90/2.png)   
